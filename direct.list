@@ -291,3 +291,215 @@ cidr:211.0.0.0/8
 cidr:218.0.0.0/8
 cidr:220.0.0.0/8
 cidr:222.0.0.0/8
+
+# ==========================================
+# 腾讯系 (Tencent) 生态与隐藏 CDN
+# ==========================================
+keyword:tencent
+domain:qq.com
+domain:weixin.com
+domain:wechat.com
+domain:wechatos.net
+domain:foxmail.com
+domain:myqcloud.com
+domain:tencent-cloud.net
+domain:tencentmind.com
+domain:qqmail.com
+# --- 腾讯核心静态资源与视频/图片CDN ---
+domain:gtimg.com
+domain:gtimg.cn
+domain:qlogo.cn
+domain:qpic.cn
+domain:smtcdns.com
+domain:idqqimg.com
+domain:tdccdn.com
+domain:imtmp.net
+domain:vqcstatic.com
+domain:qcloudcdn.com
+domain:qcloudcdn.cn
+
+# ==========================================
+# 阿里系 (Alibaba) 生态与隐藏 CDN
+# ==========================================
+keyword:alibaba
+keyword:alipay
+domain:taobao.com
+domain:tmall.com
+domain:aliyun.com
+domain:alipan.com
+domain:amap.com
+domain:dingtalk.com
+domain:ele.me
+domain:cainiao.com
+domain:fliggy.com
+domain:ucweb.com
+domain:etao.com
+domain:1688.com
+# --- 阿里核心静态资源、缓存与广告网络 ---
+domain:alicdn.com
+domain:tbcache.com
+domain:mmstat.com
+domain:tmsf.com
+domain:atbcloud.com
+domain:ykimg.com
+domain:tbsandbox.com
+domain:tanx.com
+domain:alimama.com
+domain:juhuasuan.com
+domain:guoguo-app.com
+
+# ==========================================
+# 字节跳动 (ByteDance / 抖音 / 头条) 幕后矩阵
+# ==========================================
+keyword:bytedance
+domain:douyin.com
+domain:feishu.cn
+domain:toutiao.com
+domain:huoshan.com
+domain:jianying.com
+domain:xigua.com
+domain:sandstar.com
+# --- 字节极其庞大的视频流与图片 CDN (刷抖音关键) ---
+domain:pstatp.com
+domain:snssdk.com
+domain:toutiaocdn.com
+domain:douyincdn.com
+domain:volccdn.com
+domain:bytegecko.com
+domain:byteimg.com
+domain:bytedorg.com
+domain:ibyteimg.com
+domain:bdurl.net
+domain:vgsstatic.com
+domain:bytecdntp.com
+domain:bytedance.net
+
+# ==========================================
+# 百度系 (Baidu) 与爱奇艺
+# ==========================================
+keyword:baidu
+domain:baidu.com
+domain:tieba.com
+domain:iqiyi.com
+# --- 百度全家桶的图片、云盘与前端资源 CDN ---
+domain:bdstatic.com
+domain:bdimg.com
+domain:baidupcs.com
+domain:bcebos.com
+domain:baiduyunbg.com
+domain:baidubce.com
+domain:shifen.com
+domain:duapps.com
+domain:hao123col.com
+domain:iqiyipic.com
+domain:qy.net
+
+# ==========================================
+# 网易系 (NetEase / 游戏与音乐)
+# ==========================================
+keyword:netease
+domain:163.com
+domain:126.net
+domain:126.com
+domain:netease.com
+domain:music.163.com
+domain:lofter.com
+domain:youdao.com
+# --- 网易游戏与分发 CDN ---
+domain:127.net
+domain:ydstatic.com
+domain:netease.im
+domain:vloveit.com
+domain:reg.163.com
+
+# ==========================================
+# 华米大厂 (华为 / 小米生态链)
+# ==========================================
+keyword:huawei
+domain:huawei.com
+domain:huaweicloud.com
+domain:vmall.com
+domain:hicloud.com
+domain:honor.cn
+domain:dbankcdn.com
+keyword:xiaomi
+domain:mi.com
+domain:xiaomi.com
+domain:miui.com
+domain:xiaomi.net
+domain:duokan.com
+domain:bignet.cn
+domain:micloud.xiaomi.com
+
+# ==========================================
+# 美团 / 京东 / 拼多多 (生活购物巨头)
+# ==========================================
+domain:meituan.com
+domain:meituan.net
+domain:dianping.com
+domain:dpfile.com
+domain:jd.com
+domain:jdcloud.com
+domain:360buyimg.com
+domain:jdcache.com
+domain:jcloudof.com
+domain:pinduoduo.com
+domain:yangkeduo.com
+domain:pinduoduo.net
+domain:pdduo.com
+
+# ==========================================
+# 国内主流游戏厂商 (米哈游 / 完美 / 莉莉丝等)
+# ==========================================
+domain:mihoyo.com
+domain:hoyoverse.com
+domain:hoyolab.com
+domain:bh3.com
+domain:ys4fun.com
+domain:bhsr.com
+domain:mhycdn.ph
+domain:wegame.com
+domain:wegame.com.cn
+domain:wanmei.com
+domain:wmsj.cn
+domain:lilithgame.com
+domain:lilithgames.com
+domain:hypergryph.com
+domain:yj14s.com
+domain:kurogame.com
+domain:openwlb.com
+
+# ==========================================
+# 2026 热门国内 AI 与大模型企业
+# ==========================================
+domain:deepseek.com
+domain:siliconflow.cn
+domain:siliconflow.com
+domain:moonshot.cn
+domain:kimi.ai
+domain:zhipuai.cn
+domain:chatglm.cn
+domain:minimax.io
+domain:ababcontent.com
+domain:baichuan-ai.com
+domain:lingyiwanwu.com
+
+# ==========================================
+# 常用生产力、社区、博客与技术网站
+# ==========================================
+domain:bilibili.com
+domain:hdslb.com
+domain:hdslb.net
+domain:bilivideo.com
+domain:bilivideo.cn
+domain:csdn.net
+domain:gitee.com
+domain:v2ex.com
+domain:cnblogs.com
+domain:zhihu.com
+domain:zhimg.com
+domain:xiaohongshu.com
+domain:xhscdn.com
+domain:52pojie.cn
+domain:wps.cn
+domain:kdocs.cn
