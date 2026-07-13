@@ -168,3 +168,78 @@ domain:mi.com
 domain:miui.com
 domain:oppo.com
 domain:vivo.com
+
+# ==========================================
+# 🌋 火山引擎 (Volcano Engine 核心基础设施)
+# ==========================================
+keyword:volc
+domain:volcengine.com
+domain:volcengine.cn
+domain:volccdn.com
+domain:volcs.com
+domain:volcdns.com
+domain:volcdns.cn
+domain:volcvideo.com
+domain:volcimage.com
+domain:volcbiz.com
+domain:volcaes.com
+domain:volces.com
+domain:volc-apps.com
+domain:volc-services.com
+domain:bytepluses.com
+
+# ==========================================
+# 🎵 字节跳动 / 抖音视频流与核心 CDN 矩阵
+# ==========================================
+keyword:bytedance
+domain:bytedance.com
+domain:bytedance.net
+domain:bytedance.cn
+domain:bytedcdn.com
+domain:byteimg.com
+domain:ibyteimg.com
+domain:bytegecko.com
+domain:byteactivity.com
+domain:zijieapi.com
+domain:zjurl.cn
+domain:vgsstatic.com
+domain:bdurl.net
+domain:pstatp.com
+domain:snssdk.com
+domain:ctobsnssdk.com
+domain:iesdouyin.com
+
+# ==========================================
+# 🎬 抖音及相关子品牌原生域名
+# ==========================================
+domain:douyin.com
+domain:douyincdn.com
+domain:douyinpic.com
+domain:douyinstatic.com
+domain:douyinvod.com
+domain:amemv.com
+domain:amemvcdn.com
+
+# ==========================================
+# 📰 头条、西瓜、火山小视频及其他字节生态
+# ==========================================
+domain:toutiao.com
+domain:toutiaocdn.com
+domain:toutiaocloud.com
+domain:toutiaopage.com
+domain:ixigua.com
+domain:xigua.com
+domain:xiguavideo.com
+domain:xgcdn.com
+domain:huoshan.com
+domain:huoshanlive.com
+domain:feishu.cn
+domain:feishucdn.com
+domain:feishupkg.com
+domain:doubao.com
+domain:fqnovel.com
+domain:juejin.cn
+domain:juejin.im
+domain:wukong.com
+domain:faceu.mobi
+domain:jianying.com
